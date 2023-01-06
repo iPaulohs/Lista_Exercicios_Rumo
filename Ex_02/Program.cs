@@ -7,6 +7,7 @@ namespace Programa_02
         public static void Main(string[] args)
         {
             int numeroDeNotas;
+            double somaDasnotas = 0;
             Console.WriteLine("Este é um programa para calcular a média das notas dos alunos de uma sala. De quantas notas você deseja calcular a média?");
             numeroDeNotas = int.Parse(Console.ReadLine());
             double[] notas = new double[numeroDeNotas];
@@ -17,7 +18,12 @@ namespace Programa_02
                 notas[i] = double.Parse(Console.ReadLine());
             }
 
-            double media = notas.Average();
+            for(int j = 0; j < numeroDeNotas; j++) 
+            {
+                somaDasnotas += notas[j];
+            }
+
+            double media = somaDasnotas / numeroDeNotas;
             Console.WriteLine("A média das notas declaradas é: " + media);
         }
     }
