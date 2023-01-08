@@ -1,0 +1,15 @@
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\bin\Debug\net6.0\Ex_04.exe
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\bin\Debug\net6.0\Ex_04.deps.json
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\bin\Debug\net6.0\Ex_04.runtimeconfig.json
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\bin\Debug\net6.0\Ex_04.dll
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\bin\Debug\net6.0\Ex_04.pdb
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.csproj.AssemblyReference.cache
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.AssemblyInfoInputs.cache
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.AssemblyInfo.cs
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.csproj.CoreCompileInputs.cache
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.dll
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\refint\Ex_04.dll
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.pdb
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\Ex_04.genruntimeconfig.cache
+C:\Users\Paulo H Santos\Desktop\Lista_02\Ex_04\obj\Debug\net6.0\ref\Ex_04.dll
