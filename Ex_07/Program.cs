@@ -64,11 +64,15 @@ namespace Ex_07
                 int index;
                 index = int.Parse(Console.ReadLine());
 
+                Console.WriteLine("Quantas unidades do produto foram vendidas?");
+                int quantidadeVendida;
+                quantidadeVendida= int.Parse(Console.ReadLine());  
+
                 double lucro;
 
                 double calculaLucro()
                 {
-                    lucro = (precoDeVenda[index - 1] - precoDeCompra[index - 1]) * quantidadeProduto[index - 1];
+                    lucro = (precoDeVenda[index - 1] - precoDeCompra[index - 1]) * quantidadeVendida;
                     return lucro;
                 }
 
